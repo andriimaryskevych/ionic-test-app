@@ -7,7 +7,7 @@
   "cordova": {},
   "linuxAndroidStudioPath": "/home/andrii/Documents/android-studio/bin/studio.sh",
   "server": {
-    "url": "http://192.168.137.221:8100",
+    "url": "http://localhost:8100",
     "cleartext": true
   }
 }

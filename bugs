@@ -1,0 +1,20 @@
+1. Not all the video player area is touchable which is bad experience
+    Should be fixed
+2. You almost cannot use the bottom time slider to move forward and back
+    Should be fixed
+3. I want to add +5 and +30 move forward and back like in Pixellot app
+    TODO
+4. Switching from portrait to landscape doesn’t open the video player on full screen automatically as in any other app
+    This is not WebSDK reponsibility
+5. Clicking on the bottom right side of the screen stops the video
+    Can not reproduce
+6. After cutting one clip the cutting clip button disappears
+    No, it does not
+7. When starting to cut clip after few seconds the stop recording button disappears – we have to leave it visible
+    Fixed
+8. When clicking on the screen to see it again it automatically stops the recording which is wrong, even without clicking on the stop recording
+    Fixed
+9. There is no indication that the clip is in progress
+    Not WebSDk
+10. There is no indication that the clip is ready
+    Not WebSDK

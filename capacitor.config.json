@@ -5,5 +5,9 @@
   "npmClient": "npm",
   "webDir": "build",
   "cordova": {},
-  "linuxAndroidStudioPath": "/home/andrii/Documents/android-studio/bin/studio.sh"
+  "linuxAndroidStudioPath": "/home/andrii/Documents/android-studio/bin/studio.sh",
+  "server": {
+    "url": "http://localhost:8100",
+    "cleartext": true
+  }
 }
